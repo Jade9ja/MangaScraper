@@ -13,5 +13,4 @@ Type the following to install requirements: (make sure you have python installed
 # Future
 1) More sites to be added.
 2) Ability to save as pdf.
-3) GUI would be nice.
 Stay tuned.. :)
